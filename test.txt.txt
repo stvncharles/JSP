@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 test doang 1
 test doang 2
 test doang 3 by Romy
+=======
+test
+test doang 2
+>>>>>>> origin/master
