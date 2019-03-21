@@ -1,1 +1,6 @@
-test doang 1
+<<<<<<< HEAD
+test2 by yadi
+=======
+test by yadi diganti sama romi
+test by rommy
+>>>>>>> origin/master
